@@ -1,3 +1,3 @@
 # Starting_AI
 AIML learning
-We are going to learn basics of AIML
+We are going to learn AIML
